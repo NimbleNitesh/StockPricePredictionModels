@@ -1,1 +1,2 @@
 # StockPricePredictionModels
+"StockPricePredictionModels" is a project aimed at exploring various Machine Learning and Deep Learning models for predicting stock prices. The project utilizes algorithms such as Logistic Regression, XGB Classifier, Support Vector Machines, and Neural Networks to analyze historical stock data and predict future prices. With this project, we hope to gain insights into the performance of different models and their ability to forecast stock prices accurately.
